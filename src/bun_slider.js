@@ -113,7 +113,7 @@ const Sliders = () => {
                       src="./all.jpg"
                       alt="dog-profile"
                     />
-                    <span className="bun_people_name">주영맘</span>
+                    <span className="bun_people_name">동영맘</span>
                     {/* <p>주영맘</p> */}
                   </div>
                   <div className="bun_star">
