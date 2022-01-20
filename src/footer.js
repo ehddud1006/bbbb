@@ -9,11 +9,19 @@ const Footer = () => {
 
   return (
     <div className="foot_back">
-      {/* 왜 줄바꿈이 될까?*/}
+      {/* 왜 줄바꿈이 될까?  -> 삭제함*/}
       <div className="foot_center">
         <div>
-          <img className="foot_pi round_img" src="./Twitter.jpg" alt="Twitter" />
-          <img className="foot_pi round_img" src="./facebook.jpg" alt="facebook" />
+          <img
+            className="foot_pi round_img"
+            src="./Twitter.jpg"
+            alt="Twitter"
+          />
+          <img
+            className="foot_pi round_img"
+            src="./facebook.jpg"
+            alt="facebook"
+          />
           <img className="foot_pi" src="./instargram.jpg" alt="instargram" />
         </div>
 
